@@ -3,4 +3,3 @@ def square_array(array)
     new_array = x**
   return new_array
 end
-end
