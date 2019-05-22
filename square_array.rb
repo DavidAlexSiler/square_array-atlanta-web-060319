@@ -1,4 +1,5 @@
 def square_array(array)
   array.each do |x|
-  {|x| puts #{x**}}
+  new_array = #{x**}
+  
 end
